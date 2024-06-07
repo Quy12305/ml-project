@@ -66,7 +66,11 @@
       "who designed you"
    ],
    "responses": [
-      "College students"
+      "College students",
+      "Bastards",
+      "Highschooler",
+      "Devil",
+      "BachTungDepTrai"
    ],
    "context_set": ""
 },
@@ -111,13 +115,16 @@
       "tell something about college timing",
       "what is the college  hours",
       "when should i come to college",
-      "when should i attend college",
       "what is my college time",
       "college timing",
       "timing college"
    ],
    "responses": [
-      "College is open 8am-5pm Monday-Saturday!"
+      "College is open 8am-5pm Monday-Saturday!",
+      "8am-5pm",
+      "Except Sunday",
+      "8am-5pm Weekdays",
+      "8 o'clock in the morning"
    ],
    "context_set": ""
 },
@@ -141,7 +148,9 @@
       "call"
    ],
    "responses": [
-      "You can contact at: NUMBER"
+      "You can contact at: 0123456789",
+      "0123456789",
+      "College number: 0123456789"
    ],
    "context_set": ""
 },
@@ -177,7 +186,9 @@
       "Civil engineering"
    ],
    "responses": [
-      "Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+      "Our university offers IT, AI, ML and other Subject at Engineering.",
+      "Sex",
+      "No Economic Subjects"
    ],
    "context_set": ""
 },
@@ -209,7 +220,11 @@
       "fees for non-Ac room for boys"
    ],
    "responses": [
-      "For Fee detail visit <a target=\"_blank\" href=\"LINK\"> here</a>"
+      "For Fee detail visit https://hust.edu.vn/ for more information",
+      "Average: 50,000$ a year",
+      "Not for the poor and losers",
+      "Depends on variant courses ...",
+      "ML: 2M$ full course"
    ],
    "context_set": ""
 },
@@ -232,7 +247,9 @@
       "location"
    ],
    "responses": [
-      "<a target=\"_blank\" href=\"ADD YOU GOOGLE MAP LINK HERE\"> here</a>"
+      "1 Đại Cồ Việt, Bách Khoa, Hai Bà Trưng, Hà Nội",
+      "Near Neu and Huce!!",
+      "1 Giải Phóng, Bách Khoa, Hai Bà Trưng, Hà Nội"
    ],
    "context_set": ""
 },
@@ -263,7 +280,9 @@
       "distance between hostel and college"
    ],
    "responses": [
-      "For hostel detail visit <a target=\"_blank\" href=\"ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS\"> here</a>"
+      "You can contact the managers of dormitory",
+      "Visit group link https://www.facebook.com/groups/297933154552940/?hoisted_section_header_type=recently_seen&multi_permalinks=1011299909882924 for more information",
+      "Go find yourself"
    ],
    "context_set": ""
 },
@@ -283,7 +302,10 @@
       "what about events"
    ],
    "responses": [
-      "For event detail visit <a target=\"_blank\" href=\"ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE\"> here</a>"
+      "For event details visit https://hust.edu.vn/",
+      "There are a lot of events taken place in campus and stadium annually",
+      "Only for rich kids, fuck boys and Prof. Linh",
+      "There will be different interesting events when you come to"
    ],
    "context_set": ""
 },
@@ -305,7 +327,10 @@
       "documents needed"
    ],
    "responses": [
-      "To know more about document required visit <a target=\"_blank\" href=\"ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE\"> here</a>"
+      "To know more about document required visit https://hust.edu.vn/",
+      "Private for outsiders",
+      "All documents need admission from system",
+      "Which documents do you need?"
    ],
    "context_set": ""
 },
@@ -316,12 +341,13 @@
       "building size",
       "How many floors does college have",
       "floors in college",
-      "floors in college",
       "how tall is UNI's College of Engineering college building",
       "floors"
    ],
    "responses": [
-      "My College has total 2 floors "
+      "My College has 7 buildings with 5-10 floors each one",
+      "5-10 floors each each building",
+      "Biggest in Hanoi"
    ],
    "context_set": ""
 },
@@ -337,7 +363,10 @@
       "What is next lecture"
    ],
    "responses": [
-      "Timetable provide direct to the students OR To know about syllabus visit <a target=\"_blank\" href=\"TIMETABLE LINK\"> here</a>"
+      "Timetable provide direct to the students OR To know about syllabus visit https://hust.edu.vn/",
+      "Go to photocopy store",
+      "Come to Ta Quang Buu library",
+      "There are different of IT syllabus"
    ],
    "context_set": ""
 },
@@ -360,7 +389,10 @@
       "how many libraries"
    ],
    "responses": [
-      "There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=\"blank\" href=\"ADD LIBRARY DETAIL LINK\">here</a>"
+      "There is one huge and spacious library.timings are 8am to 6pm and for more visit https://hust.edu.vn/",
+      "In the school campus, between D3 and D6 buildings",
+      "You need student cards to come to library",
+      "The best facilities of South-East Asian"
    ],
    "context_set": ""
 },
@@ -372,7 +404,9 @@
       "college infrastructure"
    ],
    "responses": [
-      "Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection"
+      "Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection",
+      "Fast Internet Speed",
+      "Many Latest Technologies and Equipment"
    ],
    "context_set": ""
 },
@@ -392,7 +426,9 @@
       "Cafetaria"
    ],
    "responses": [
-      "Our university has canteen with variety of food available"
+      "Our university has canteen with variety of food available",
+      "A lot of students were poisoned",
+      "Diarrhea, poisoning and warts"
    ],
    "context_set": ""
 },
@@ -408,7 +444,9 @@
       "What is there to eat?"
    ],
    "responses": [
-      "we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu"
+      "we serve Hải cẩu nhồi chim chết, Não khỉ tươi and many more on menu",
+      "Weeds, Drugs, Cocaine and Meth",
+      "Banh My, Pho`, Banh Bao and BachTung"
    ],
    "context_set": ""
 },
@@ -426,7 +464,9 @@
       "companies"
    ],
    "responses": [
-      "To know about placement visit <a target=\"_blank\" href=\"PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE\">here</a>"
+      "To know about placement visit https://hust.edu.vn/",
+      "Phone: 0123456789",
+      "FPT, BKaV, Hust Lab, Vin AI, Ngo Van Linh' brothel"
    ],
    "context_set": ""
 },
@@ -439,7 +479,9 @@
       "name of it hod"
    ],
    "responses": [
-      "All engineering departments have only one hod XYZ who available on (Place name)"
+      "Ta Hai Tung, email: Tung.TH@soict.com",
+      "Nguyen Duc Hieu, future IThod",
+      "Do Cao Bach Tung, legend IThod, Phong bao ve"
    ],
    "context_set": ""
 },
@@ -452,7 +494,9 @@
       "name of computer hod"
    ],
    "responses": [
-      "All engineering departments have only one hod XYZ who available on (PLACE NAME)"
+      "All engineering departments have only one hod at B1-101",
+      "Private information",
+      "Pham Dang Hai, email: HaiPD@soict.com"
    ],
    "context_set": ""
 },
@@ -465,7 +509,10 @@
       "name of extc hod"
    ],
    "responses": [
-      "Different school wise hod are different.So be more clear with your school or department"
+      "Different school wise hod are different.So be more clear with your school or department",
+      "Robin Hood C1-101",
+      "Batman with no parents, Gotham",
+      "Global ban 0s"
    ],
    "context_set": ""
 },
@@ -481,7 +528,10 @@
       "name of principal"
    ],
    "responses": [
-      "XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate"
+      "Huynh Quyet Thang is college principal and if you need any help then call your branch hod first. That is more appropriate",
+      "I think he is Nguyen Duc Hieu",
+      "Huynh Quyet Thang",
+      "At C1-101"
    ],
    "context_set": ""
 },
@@ -501,7 +551,10 @@
       "when is semester"
    ],
    "responses": [
-      "Here is the Academic Calendar  <a target=\"_blank\" href=\"YOUR ACADEMIC CALENDER\">website</a>"
+      "Here is the Academic Calendar https://hust.edu.vn/",
+      "Depend on different courses, you can follow the timetable through https://hust.edu.vn/vi/news/tin-tuc-su-kien/muon-nghien-cuu-ngan-sang-tao-gan-voi-nhu-cau-thuc-tien-cua-sinh-vien-bach-khoa-ha-noi-655148.html",
+      "I don't know",
+      "Stupid Question"
    ],
    "context_set": ""
 },
@@ -516,7 +569,9 @@
       "admission process"
    ],
    "responses": [
-      "Application can also be submitted online through the Unversity's  <a target=\"_blank\" href=\"LINK OF ADMISSION DOCUMENT\">website</a>"
+      "Application can also be submitted online through the Unversity's  https://hust.edu.vn/",
+      "Summit online in university website",
+      "Ask Ngo Van Linh"
    ],
    "context_set": ""
 },
@@ -551,7 +606,9 @@
       "fourth year scholarship"
    ],
    "responses": [
-      "Many government scholarships are supported by our university. For details and updates visit <a target=\"_blank\" href=\"(SCHOLARSHIP DETAILS LINK)\">here</a>"
+      "Many government scholarships are supported by our university. For details and updates visit https://hust.edu.vn/",
+      "Every scholarship values of one semester's tuition",
+      "Are you good enough?"
    ],
    "context_set": ""
 },
@@ -565,7 +622,9 @@
       "facilities provided"
    ],
    "responses": [
-      "Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen"
+      "Our university's Engineering department provides fully IT Lab with internet connection, smart classroom, Auditorium, library,canteen",
+      "Really good",
+      "Constructed by students' fees"
    ],
    "context_set": ""
 },
@@ -583,7 +642,8 @@
       "seats"
    ],
    "responses": [
-      "For IT, Computer and extc 60 per branch and seat may be differ for different department."
+      "For IT, Computer and extc 60 per branch and seat may be differ for different department.",
+      "More than 30.000 seats"
    ],
    "context_set": ""
 },
@@ -601,7 +661,9 @@
       "do we have to wear uniform"
    ],
    "responses": [
-      "ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER"
+      "No required uniform",
+      "Really expensive and dirty",
+      "No neccessary to buy"
    ],
    "context_set": ""
 },
@@ -616,7 +678,9 @@
       "how many committee are there in college"
    ],
    "responses": [
-      "For the various committe in college contact this number: ADD NUMBER"
+      "For the various committe in college contact this number: 0987654321",
+      "Go to link https://hust.edu.vn/",
+      "I have no idea"
    ],
    "context_set": ""
 },
@@ -668,7 +732,8 @@
       "how long will be the vacation"
    ],
    "responses": [
-      "Academic calender is given to you by your class-soordinators after you join your respective classes"
+      "Academic calender is given to you by your class-coordinators after you join your respective classes",
+      "Each semester often lasts about 5 months and each holiday has 1 month after it"
    ],
    "context_set": ""
 },
@@ -684,7 +749,7 @@
       "please provide sports and games information"
    ],
    "responses": [
-      "Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=\"_blank\" href=/\"(LINK IF HAVE)\">here</a>"
+      "Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit https://hust.edu.vn/"
    ],
    "context_set": ""
 },
@@ -743,18 +808,6 @@
    ],
    "responses": [
       "We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging"
-   ],
-   "context_set": ""
-},
- {
-   "tag": "hod",
-   "patterns": [
-      "hod",
-      "hod name",
-      "who is the hod"
-   ],
-   "responses": [
-      "HODs differ for each branch, please be more specific like: (HOD it)"
    ],
    "context_set": ""
 }

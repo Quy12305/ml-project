@@ -8,7 +8,7 @@ from torch.utils.data import Dataset, DataLoader
 from bert import preprocess, word_piece
 from model import NeuralNet
 
-with open('training.json', 'r') as f:
+with open('university.json', 'r', encoding='utf-8') as f:
     intents = json.load(f)
 
 all_sentences = []

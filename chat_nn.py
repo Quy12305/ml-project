@@ -9,7 +9,7 @@ from bert import preprocess, word_piece
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-with open('training.json', 'r') as json_data:
+with open('university.json', 'r', encoding='utf-8') as json_data:
     intents = json.load(json_data)
 
 FILE = "neural_net.pth"

@@ -47,7 +47,7 @@ Y_train = np.array(Y_train)
 # Hyper-parameters
 num_epochs = 210
 batch_size = 16
-learning_rate = 0.001
+learning_rate = 2e-5
 input_size = len(X_train[0])    # Length of the attribute vector - 768
 hidden_size = 512
 output_size = len(tags)         # Number of tags

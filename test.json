@@ -1,299 +1,293 @@
 {
-    "intents": [
-    {
-        "tag": "what_is_anime",
-        "patterns": [
-            "I'm not familiar with anime, can you give me a brief explanation?",
-            "What makes anime different from other types of animation?"
-        ],
-        "responses": []
-    },
-    {
-        "tag": "popular_anime",
-        "patterns": [
-            "Are there any award-winning anime shows?",
-            "Tell me about popular animes."
-        ],
-        "responses": []
-    },
-    {
-        "tag": "anime_trivia",
-        "patterns": [
-            "What's a lesser-known fact about anime that you find interesting?",
-            "What's something interesting about anime?"
-        ],
-        "responses": []
-    },
-    {
-        "tag": "anime_streaming",
-        "patterns": [
-            "What are some reliable websites to watch anime online?",
-            "Tell me about subscription-based anime streaming sites."
-        ],
-        "responses": []
-    },
-    {
-        "tag": "anime_convention",
-        "patterns": [
-            "Where are the popular anime conventions held?",
-            "I'm interested in anime conventions."
-        ],
-        "responses": []
-    },
-    {
-        "tag": "anime_genres",
-        "patterns": [
-            "Tell me about psychological anime genres.",
-            "Can you suggest some specific genres?"
-        ],
-        "responses": []
-    },
-    {
-        "tag": "top_anime",
-        "patterns": [
-            "What are some highly acclaimed anime series?",
-            "What are the top anime?"
-        ],
-        "responses": []
-    },
-    {
-        "tag": "action_anime",
-        "patterns": [
-            "Are there any action anime movies worth watching?",
-            "List some top action animes."
-        ],
-        "responses": []
-    },
-    {
-        "tag": "romance_anime",
-        "patterns": [
-            "What are some good romance anime?",
-            "Tell me about popular romance anime series."
-        ],
-        "responses": []
-    },
-    {
-        "tag": "comedy_anime",
-        "patterns": [
-            "Tell me about comedy animes.",
-            "Can you list the top comedy animes?"
-        ],
-        "responses": []
-    },
-    {
-        "tag": "define_of_yuri_anime",
-        "patterns": [
-            "Which are some popular yuri anime that have gained a following?",
-            "What does yuri mean in anime?"
-        ],
-        "responses": []
-    },
-    {
-        "tag": "yuri_anime",
-        "patterns": [
-            "Which yuri anime series have been praised for their representation and storytelling?",
-            "Can you list the top yuri animes?"
-        ],
-        "responses": []
-    },
-    {
-        "tag": "about love comedy",
-        "patterns": [
-            "Can you explain what a love comedy is?",
-            "Tell me more about the romantic and comedic elements in love comedies."
-        ],
-        "responses": []
-    },
-    {
-        "tag": "love comedy anime",
-        "patterns": [
-            "What are the best love comedy anime to watch?",
-            "Which love comedy anime are considered must-watch?"
-        ],
-        "responses": []
-    },
-    {
-        "tag": "love comedy manga",
-        "patterns": [
-            "Looking for manga that combines love and comedy. Any suggestions?",
-            "Which love comedy manga are considered the best to read?"
-        ],
-        "responses": []
-    },
-    {
-        "tag": "about anime game",
-        "patterns": [
-            "What are some anime games that have a large fanbase?",
-            "What are some popular anime games?"
-        ],
-        "responses": []
-    },
-    {
-        "tag": "best moments in anime games",
-        "patterns": [
-            "What are some of the best moments in anime games?",
-            "Can you tell me about the most memorable scenes in anime games?"
-        ],
-        "responses": []
-    },
-    {
-        "tag": "music_anime",
-        "patterns": [
-            "Can you suggest a music anime that incorporates multiple music genres?",
-            "Can you suggest a good music-themed anime series?"
-        ],
-        "responses": []
-    },
-    {
-        "tag": "anime_composers",
-        "patterns": [
-            "I'm looking for anime music composers who excel at creating epic battle soundtracks. Any recommendations?",
-            "What are some iconic anime soundtracks that are worth listening to?"
-        ],
-        "responses": []
-    },
-    {
-        "tag": "anime_bands",
-        "patterns": [
-            "I'm in the mood for some lively and energetic anime music. Can you recommend some upbeat anime bands?",
-            "What are some anime bands that have a strong online presence and engage with their fans?"
-        ],
-        "responses": []
-    },
-    {
-        "tag": "anime_singers",
-        "patterns": [
-            "I'm looking for some good anime singers. Any recommendations?",
-            "I'm a fan of J-pop. Can you suggest some anime singers who have also released non-anime songs?"
-        ],
-        "responses": []
-    },
-    {
-        "tag": "anime_producer",
-        "patterns": [
-            "Which anime production companies make good shows?",
-            "Are there any anime production companies that are particularly popular among international fans?"
-        ],
-        "responses": []
-    },
-    {
-        "tag": "manga",
-        "patterns": [
-            "I'm looking for a new manga to read",
-            "What are some classic manga series that have stood the test of time?"
-        ],
-        "responses": []
-    },
-    {
-        "tag": "manga_author",
-        "patterns": [
-            "Can you suggest some manga creators who have a unique art style?",
-            "Are there any manga authors who have won prestigious awards for their work?"
-        ],
-        "responses": []
-    },
-    {
-        "tag": "anime_movie",
-        "patterns": [
-            "Do you have any favorite anime movies?",
-            "I'm interested in anime movies."
-        ],
-        "responses": []
-    },
-    {
-        "tag": "anime_movie_director",
-        "patterns": [
-            "Do you have any favorite anime movies directed by notable directors?",
-            "Can you suggest any anime movies directed by well-known filmmakers?"
-        ],
-        "responses": []
-    },
-    {
-        "tag": "what is a light novel",
-        "patterns": [
-            "What's the difference between a light novel and a regular novel?",
-            "I want to know about light novels"
-        ],
-        "responses": []
-    },
-    {
-        "tag": "writing style of light novel",
-        "patterns": [
-            "Are light novels known for their use of humor?",
-            "How do illustrations contribute to the overall writing style of light novels?"
-        ],
-        "responses": []
-    },
-    {
-        "tag": "light_novels",
-        "patterns": [
-            "What is the typical writing style of light novels?",
-            "Is there a specific structure or chapter length followed in light novels?"
-        ],
-        "responses": []
-    },
-    {
-        "tag": "light_novel_genres",
-        "patterns": [
-            "Can you suggest light novels in the mystery genre?",
-            "Can you recommend light novels in the supernatural genre?"
-        ],
-        "responses": []
-    },
-    {
-        "tag": "isekai",
-        "patterns": [
-            "What are some well-known Isekai light novels that you could recommend?",
-            "Are there any classic or must-read Isekai light novels?"
-        ],
-        "responses": []
-    },
-    {
-        "tag": "fantasy",
-        "patterns": [
-            "What are some unique features of fantasy light novels compared to other genres?",
-            "Can you recommend a fantasy novel?"
-        ],
-        "responses": []
-    },
-    {
-        "tag": "slice_of_life",
-        "patterns": [
-            "I'm in the mood for a Slice of Life light novel",
-            "I want to watch slice of life animes."
-        ],
-        "responses": []
-    },
-    {
-        "tag": "mystery",
-        "patterns": [
-            "Do you know any good mystery novels?",
-            "What are some mystery light novels that have a supernatural or paranormal theme?"
-        ],
-        "responses": []
-    },
-    {
-        "tag": "romcom_lightnovel",
-        "patterns": [
-            "Can you recommend a RomCom light novel?",
-            "Can you suggest RomCom light novels with a focus on character development?"
-        ],
-        "responses": []
-    },
-    {
-        "tag": "light_novel_authors",
-        "patterns": [
-            "Are there any light novel authors who have won prestigious awards for their work?",
-            "Who are the highly regarded light novel authors?"
-        ],
-        "responses": []
-    },
-    {
-        "tag": "light_novel_illustrators",
-        "patterns": [
-            "Can you recommend light novel illustrators who have worked on light novels with romantic or slice-of-life themes?",
-            "Who are some great light novel illustrators?"
-        ],
-        "responses": []
-    }
-]}
+    "intents":[
+  {
+    "tag": "creator",
+    "patterns": [
+       "what is the name of your developers",
+       "what is the name of your creators"
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "name",
+    "patterns": [
+       "your name",
+       "do you have a name"
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "hours",
+    "patterns": [
+       "timing of college",
+       "what is college timing",
+       "working days"
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "number",
+    "patterns": [
+       "more info",
+       "contact info"
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "course",
+    "patterns": [
+       "list of courses",
+       "what are the courses offered in your college?"
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "fees",
+    "patterns": [
+       "information about fee",
+       "what is the fee of each semester"
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "location",
+    "patterns": [
+       "where is the college located",
+       "college is located at"
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "hostel",
+    "patterns": [
+       "hostel facility",
+       "Is there any hostel"
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "event",
+    "patterns": [
+       "events organised",
+       "list of events organised in college"
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "document",
+    "patterns": [
+       "documents needed at the time of admission",
+       "what documents do i need"
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "floors",
+    "patterns": [
+       "size of campus",
+       "how tall is UNI's College of Engineering college building"    
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "syllabus",
+    "patterns": [
+       "Syllabus for IT",
+       "what is the Information Technology syllabus"
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "library",
+    "patterns": [
+       "is there any library",
+       "library facility"
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "infrastructure",
+    "patterns": [
+       "how is college infrastructure",
+       "college infrastructure"
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "canteen",
+    "patterns": [
+       "food facilities",
+       "Cafetaria"
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "menu",
+    "patterns": [
+       "food menu",
+       "What is there to eat?"
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "placement",
+    "patterns": [
+       "What is college placement",
+       "Which companies visit in college"
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "ithod",
+    "patterns": [
+       "Who is HOD",
+       "Where is HOD"
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "computerhod",
+    "patterns": [
+       "Who is computer HOD",
+       "Where is computer HOD"
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "extchod",
+    "patterns": [
+       "Who is extc HOD",
+       "Where is  extc HOD"
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "principal",
+    "patterns": [
+       "what is the name of principal",
+       "what is the principal name"
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "sem",
+    "patterns": [
+       "exam dates",
+       "exam schedule"
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "admission",
+    "patterns": [
+       "what is the process of admission",
+       "what is the admission process"
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "scholarship",
+    "patterns": [
+       "scholarship",
+       "Is scholarship available"
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "facilities",
+    "patterns": [
+       "What facilities college provide",
+       "College facility"
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "college intake",
+    "patterns": [
+       "max number of students",
+       "number of seats per branch"
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "uniform",
+    "patterns": [
+       "college dress code",
+       "do we have to wear uniform"
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "committee",
+    "patterns": [
+       "what are the different committe in college",
+       "different committee in college" 
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "vacation",
+    "patterns": [
+       "holidays",
+       "when will semester starts"
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "sports",
+    "patterns": [
+       "sports and games",
+       "please provide sports and games information"
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "task",
+    "patterns": [
+       "what can you do",
+       "what are the thing you can do"
+    ],
+    "responses": [],
+    "context_set": ""
+ },
+  {
+    "tag": "ragging",
+    "patterns": [
+       "ragging",
+       "is ragging practice active in college"
+    ],
+    "responses": [],
+    "context_set": ""
+ }
+ ]
+ }

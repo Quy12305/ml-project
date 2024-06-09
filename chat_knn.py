@@ -11,7 +11,7 @@ from bert import preprocess, word_piece
 k = 1
 bot_name = "Chatbot (k-nn)"
 
-with open('training.json', 'r') as f:
+with open('university.json', 'r', encoding='utf-8') as f:
     intents = json.load(f)
 
 all_sentences = []

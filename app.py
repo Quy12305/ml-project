@@ -6,7 +6,7 @@ BG_COLOR = "#5b5b5b"
 TEXT_COLOR = "#EAECEE"
 
 FONT = "Helvetica 14"
-FONT_BOLD = "Helvetica 13 bold"
+FONT_BOLD = "Helvetica 18 bold"
 
 
 class ChatApplication:
@@ -34,7 +34,7 @@ class ChatApplication:
 
         # frame for text widget and scrollbar
         text_frame = Frame(self.window, bg=BG_COLOR)
-        text_frame.place(relheight=0.745, relwidth=0.974, rely=0.08)
+        text_frame.place(relheight=0.745, relwidth=0.982, rely=0.08)
 
         # text widget
         self.text_widget = Text(text_frame, bg=BG_COLOR, fg=TEXT_COLOR,
@@ -43,7 +43,7 @@ class ChatApplication:
 
         # scroll bar
         scrollbar = Scrollbar(self.window)
-        scrollbar.place(relheight=0.745, relx=0.974, rely=0.08)
+        scrollbar.place(relheight=0.745, relx=0.978, rely=0.08)
         scrollbar.configure(command=self.text_widget.yview)
 
         # attach scrollbar to text widget
@@ -55,14 +55,14 @@ class ChatApplication:
 
         # message entry box
         self.msg_entry = Entry(bottom_label, bg="#5b5b5b", fg=TEXT_COLOR, font=FONT)
-        self.msg_entry.place(relwidth=0.74, relheight=0.06, rely=0.008, relx=0.011)
+        self.msg_entry.place(relwidth=0.74, relheight=0.06, rely=0.018, relx=0.011)
         self.msg_entry.focus()
         self.msg_entry.bind("<Return>", self._on_enter_pressed)
 
         # send button
         send_button = Button(bottom_label, text="Send", font=FONT_BOLD, width=20, bg="#dddddd",
                              command=lambda: self._on_enter_pressed(None))
-        send_button.place(relx=0.77, rely=0.008, relheight=0.06, relwidth=0.22)
+        send_button.place(relx=0.77, rely=0.018, relheight=0.06, relwidth=0.22)
 
     def _on_enter_pressed(self, event):
         msg = self.msg_entry.get()

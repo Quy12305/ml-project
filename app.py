@@ -86,7 +86,7 @@ class ChatApplication:
         self.text_widget.configure(state=DISABLED)
 
         self.text_widget.see(END)
-
+    
 
 if __name__ == "__main__":
     app = ChatApplication()
